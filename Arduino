@@ -1,4 +1,3 @@
-
 int dioda = 13;
 int przerwa = 500;
 int czas_dluga_przerwa = 500;
