@@ -1,6 +1,5 @@
 int dioda = 13;
 int przerwa = 500;
-int czas;
 int krotki_sygnal=100;
 int dlugi_sygnal = 700;
 void setup(){
